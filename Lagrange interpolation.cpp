@@ -1,5 +1,5 @@
 //Priyadarshan ghosh
-//Lagrange 
+
 #include<stdio.h>
  main()
 {
