@@ -1,5 +1,5 @@
 //Priyadarshan ghosh
-//Newton backword 
+
 #include<stdio.h>
 int fact(int);
 void main()
